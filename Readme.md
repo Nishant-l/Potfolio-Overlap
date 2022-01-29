@@ -55,7 +55,7 @@ Example - ADD_STOCK AXIS_BLUECHIP HDFC BANK LIMITED means we have to add the sto
 
 # Setup
 
--           npm install
+-           npm install <File Path>
 
 -           npm test            
 
