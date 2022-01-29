@@ -1,0 +1,8 @@
+{
+  "funds": [
+    {
+        "name": "ICICI_PRU_NIFTY_NEXT_50_INDEX",
+        "stocks": ["a","b"]
+    }
+    ]
+}

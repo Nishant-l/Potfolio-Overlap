@@ -1,10 +1,11 @@
 {
   "name": "overlap",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "overlap",
+  "main": "geektrust.js",
   "scripts": {
-    "test": "jest"
+    "start": "node geektrust.js",
+    "test": "jest --coverage"
   },
   "author": "",
   "license": "ISC",
